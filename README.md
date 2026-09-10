@@ -329,19 +329,19 @@ Instead of presenting only a prediction, the prototype includes an explainabilit
 
 ### Home
 
-![NAYANI Home](docs/screenshots/home.png)
+![NAYANI Home](docs/screenshots/home.png.png)
 
 ### Image Upload
 
-![Image Upload](docs/screenshots/upload.png)
+![Image Upload](docs/screenshots/upload.png.png)
 
 ### AI Analysis
 
-![AI Analysis](docs/screenshots/analysis.png)
+![AI Analysis](docs/screenshots/analysis.png.png)
 
 ### Screening Report
 
-![Screening Report](docs/screenshots/report.png)
+![Screening Report](docs/screenshots/report.png.png)
 
 ---
 
