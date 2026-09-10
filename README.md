@@ -16,6 +16,10 @@
 
 </p>
 
+## 🚀 Live Demo
+
+👉 **[Launch NAYANI](YOUR-LIVE-URL)**
+
 ---
 
 ## 🌟 Overview
