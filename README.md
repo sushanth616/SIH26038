@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Launch NAYANI](YOUR-LIVE-URL)**
+👉 **[Launch NAYANI]((https://nayani-retinal-screening--sushant1618981.replit.app/))**
 
 ---
 
